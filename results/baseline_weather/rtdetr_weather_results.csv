@@ -1,0 +1,5 @@
+Stress Level,mAP@50
+clean,0.8829261543635039
+weather_1_light_rain,0.8804266337695974
+weather_2_heavy_rain,0.30636002805572093
+weather_3_harmattan_fog,0.6186704945864628
